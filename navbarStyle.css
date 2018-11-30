@@ -1,0 +1,29 @@
+.navbar {
+	margin-bottom: 0;
+	background-color: black;
+	z-index: 9999;
+	border: 0;
+	font-size: 16px !important;
+	line-height: 1.42857143 !important;
+	letter-spacing: 2px;
+	border-radius: 0;  
+	font-family: Montserrat, sans-serif;
+	border-bottom:5px solid white;
+}
+.navbar li a, .navbar  {
+	color: #fff !important;
+}
+.navbar-brand{
+	font-size: 30px !important;
+	font-weight:bold;
+	color: #f4511e !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+	color: #f4511e !important;
+	background-color: #fff !important;
+	font-weight:bold;
+}
+.navbar-default .navbar-toggle {
+	border-color: transparent;
+	color: #fff !important;
+} 

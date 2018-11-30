@@ -1,0 +1,37 @@
+.fa {
+  padding: 5px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #f4511e;
+  color: white;
+}
+
+.fa-twitter {
+  background: #f4511e;
+  color: white;
+}
+
+.fa-google {
+  background: #f4511e;
+  color: white;
+}
+.tabl td{
+	color:white;
+}  
+
+footer .glyphicon {
+      font-size: 20px;
+      margin-bottom: 20px;
+      color: white;
+  }
